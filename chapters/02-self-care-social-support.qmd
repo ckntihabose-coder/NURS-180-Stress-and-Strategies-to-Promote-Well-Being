@@ -23,7 +23,7 @@ Watch this grounding exercise and reflect on how it might help you manage stress
   height="450"
   src="https://www.youtube.com/embed/LgRd1Mzhb_Q"
   title="Grounding Exercise for Racing Minds"
-  frameborder="0"
+  referrerpolicy="strict-origin-when-cross-origin"
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
   allowfullscreen>
 </iframe>

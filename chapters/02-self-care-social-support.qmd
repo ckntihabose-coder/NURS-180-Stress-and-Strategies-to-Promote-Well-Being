@@ -1,6 +1,8 @@
 Academic Integrity and Student Wellbeing: Managing Student-specific Stressors
 
 
+## Week 2 - Class 1 Synchronous -Academic integrity and Managing student stressors
+
 Readings for this week: 
 
 Chapter 4 (Malette)
@@ -16,7 +18,6 @@ Media:
 How to be happier in 5 steps with zero weird tricks | Laurie Santos
 
 
-## Watch and Learn
 
 **Grounding Exercise for Racing Minds: Calming Meditation**
 
@@ -34,3 +35,26 @@ Watch this grounding exercise and reflect on how it might help you manage stress
 
 
 
+##Week 2 - Class 2 Asynchronous -Academic integrity and Managing student stressors
+
+Today's Class is ASYNCHRONOUS 
+
+See the activities below...
+
+Academic Wellbeing:
+Managing Student-specific Stressors
+Readings for this week: 
+Continue with Assigned readings
+Media: 
+
+Making the Grade | The Happiness Lab Podcast | Dr. Laurie Santos
+
+<iframe
+  width="100%"
+  height="450"
+  src="https://www.youtube.com/watch?v=AeBHvSPL6bk"
+  title="Making the Grade | The Happiness Lab Podcast | Dr. Laurie Santos"
+  referrerpolicy="strict-origin-when-cross-origin"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  allowfullscreen>
+</iframe>

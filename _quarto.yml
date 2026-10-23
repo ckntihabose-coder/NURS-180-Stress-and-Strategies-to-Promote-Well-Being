@@ -1,0 +1,29 @@
+
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "NURS 180: Stress and Strategies to Promote Well Being"
+  subtitle: "A Student Guide to Stress, Self-Care, and Resilience"
+  author: "Corneille Ntihabose"
+  chapters:
+    - index.qmd
+    - chapters/01-wellness-stress-resilience.qmd
+    - chapters/02-self-care-social-support.qmd
+    - chapters/03-physiology-stress-sleep.qmd
+    - chapters/04-physical-activity-nutrition.qmd
+    - chapters/05-stress-and-mental-health.qmd
+    - chapters/06-diversity-and-stress.qmd
+    - chapters/07-time-resource-management.qmd
+    - chapters/08-cognitive-reframing.qmd
+    - chapters/09-spirituality-nature-health.qmd
+    - chapters/10-creative-expression.qmd
+    - chapters/11-personal-stress-management-plan.qmd
+    - chapters/12-course-integration-reflection.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    number-sections: true
